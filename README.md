@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Gianluca 👋
 
 <!--
 **gfabrizi/gfabrizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍🏭 Fullstack developer  
+🎀 Frontend: Javascript, Typescript, SCSS  
+🏗️ Backend: PHP, Symfony, Laravel, Node.js, Redis, ElasticSearch  
+🖥️ DevOps: AWS, Git, Jenkins, Cypress
+
+- 🔭 I’m currently working on writing articles for my [blog](https://gianlucafabrizi.dev/)  
+- 📫 How to contact me: send me a PM on [my LinkedIn profile](https://www.linkedin.com/in/gianluca-fabrizi/)  
+- 👯 I’m looking to collaborate on projects that promote environmental sustainability or that have an environmental purpose 🌱  
